@@ -1,5 +1,3 @@
-# ContaBancaria
-
 namespace DIO.Bank
 {
     public enum TipoConta 
